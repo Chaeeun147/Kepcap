@@ -1,3 +1,6 @@
+<img width="2748" height="2062" alt="image" src="https://github.com/user-attachments/assets/c69bdb6e-ee2a-43b8-ba90-235a88deb0ff" />
+
+
 # Kepcap
 These are Pochacco and Choonsik-themed MX Custom Key Caps made for Hack Club's Stasis!
 
